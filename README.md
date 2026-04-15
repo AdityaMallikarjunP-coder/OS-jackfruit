@@ -5,10 +5,10 @@ A lightweight Linux container runtime in C with a long-running supervisor and a 
 
 ## 1. Team Information
 
-| Name | SRN |
-|------|-----|
-| SIDDU SANGANNA SHIRASAGI | PES1UG25CS846 |
-| Shravanakumar Patil | PES1UG24CS692  |
+| Name                         | SRN             |
+|------------------------------|-----------------|
+| Aniket Sen                   | PES1UG24CS062   |
+| Aditya Mallikarjun Parande   | PES1UG24CS028   |
 
 ---
 
