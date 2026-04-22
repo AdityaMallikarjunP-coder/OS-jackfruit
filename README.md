@@ -175,6 +175,8 @@ Caption: Kernel module sends SIGKILL when RSS exceeds 20 MiB hard limit. Supervi
 <img width="1016" height="275" alt="image" src="https://github.com/user-attachments/assets/b4435fcb-86ee-40a9-b910-7cf8dbe5e298" />
 <img width="1016" height="275" alt="image" src="https://github.com/user-attachments/assets/4134da2e-101f-4f41-b2c4-06e417433b14" />
 <img width="1016" height="275" alt="image" src="https://github.com/user-attachments/assets/a12b91a3-7257-429c-8861-61b27b72a0bc" />
+<img width="592" height="523" alt="image" src="https://github.com/user-attachments/assets/98b4b8e1-0d31-4ff4-806c-a3df3d603131" />
+
 
 
 Caption: c2 (nice -5, higher priority) received larger CPU time slices. c1 (nice 10) was preempted, visible as gaps in progress reporting.
